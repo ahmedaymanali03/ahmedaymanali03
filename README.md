@@ -5,7 +5,7 @@
 </div>
 <div align="center">
     <h2>About Me</h2>
-    <p>I'm Ahmed Ayman Aly an ambtious junior Computer Engineering and Software Systems student at the Faculty of Engineering Ain Shmas University. <br>
+    <p>I'm Ahmed Ayman Aly an ambtious Senior-1 Computer Engineering and Software Systems student at the Faculty of Engineering Ain Shmas University. <br>
     Most of my repositories are College, Training related Projects </p>
 </div>
 <div align="center">
